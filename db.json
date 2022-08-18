@@ -1,14 +1,50 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "slider" : [
+    {
+      "image" : "https://storage.mediacartz.com/files/smeter/NVwxzmMTkB.png",
+      "page" : "Video"
+    },
+    {
+      "image" : "https://storage.mediacartz.com/files/smeter/BOuv1pXMtO.png",
+      "page" : "Platform"
+    },
+    {
+      "image" : "https://storage.mediacartz.com/files/smeter/ax5crJl1jA.png",
+      "url": "https://seller.blibli.com/register?refCode=SMETER2022"
+    },
+    {
+      "image" : "https://storage.mediacartz.com/files/smeter/7e1i1PI8v2.png",
+      "url" : "https://digitalmeetup.id/"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "online" : {
+    "title" : "Online Platform",
+    "desc" : "Buat bisnis kamu menjangkau pasar yang lebih luas",
+    "data" : [
+      {
+        "data" : "Marketplace",
+        "image" : "https://storage.mediacartz.com/files/smeter/kWOjACH1XH.png",
+        "category_platform_id" : 9,
+        "color" : "#e6f1d3"
+      },
+      {
+        "data" : "Buat Toko Online",
+        "image" : "https://storage.mediacartz.com/files/smeter/gLI9anC9pc.png",
+        "category_platform_id" : 8,
+        "color" : "#c4c5fe"
+      },
+      {
+        "data" : "Kelola Marketplace",
+        "image" : "https://storage.mediacartz.com/files/smeter/ouWZ2oEHgH.png",
+        "category_platform_id" : 6,
+        "color" : "#f6d8d8"
+      },
+      {
+        "data" : "Promosi",
+        "image" : "https://storage.mediacartz.com/files/smeter/7Jm1hnecOd.png",
+        "category_platform_id" : 3,
+        "color" : "#ffefaa"
+      }
+    ]
   }
 }
