@@ -1,20 +1,24 @@
 {
   "slider" : [
     {
+      "image" : "https://storage.mediacartz.com/files/smeter/ax5crJl1jA.png",
+      "url": "https://seller.blibli.com/register?refCode=SMETER2022"
+    },
+    {
+      "image" : "https://storage.mediacartz.com/files/smeter/3RouxmVItI.jpeg",
+      "url" : "https://my.jurnal.id/id/users/sign_up?ref=neoputri&referral_code=neoputri"
+    },
+    {
+      "image" : "https://storage.mediacartz.com/files/smeter/7e1i1PI8v2.png",
+      "url" : "https://digitalmeetup.id/"
+    },
+    {
       "image" : "https://storage.mediacartz.com/files/smeter/NVwxzmMTkB.png",
       "page" : "Video"
     },
     {
       "image" : "https://storage.mediacartz.com/files/smeter/BOuv1pXMtO.png",
       "page" : "Platform"
-    },
-    {
-      "image" : "https://storage.mediacartz.com/files/smeter/ax5crJl1jA.png",
-      "url": "https://seller.blibli.com/register?refCode=SMETER2022"
-    },
-    {
-      "image" : "https://storage.mediacartz.com/files/smeter/7e1i1PI8v2.png",
-      "url" : "https://digitalmeetup.id/"
     }
   ],
   "online" : {
